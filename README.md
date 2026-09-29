@@ -7,7 +7,7 @@
 ## Stack & compétences
 
 **Langages** · Python · C · C++ · SQL · Bash  
-**DevOps** · Docker · Docker Compose · GitHub Actions · Nginx · Ansible · Prometheus · Grafana  
+**DevOps** · Docker · Docker Compose · GitHub Actions · Nginx · Ansible · Prometheus · Grafana · Traefik
 **Infra**  Linux (Arch, daily driver)  
 **Dev** · Flask · MySQL · REST API  
 
