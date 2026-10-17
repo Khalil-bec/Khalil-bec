@@ -7,8 +7,8 @@
 ## Stack & compétences
 
 **Langages** · Python · C · C++ · SQL · Bash  
-**DevOps** · Docker · Docker Compose · GitHub Actions · Nginx · Ansible · Prometheus · Grafana · Traefik
-**Infra**  Linux (Arch, daily driver)  
+**DevOps** · Docker · GitHub Actions · Nginx · Ansible · Prometheus · Grafana · Traefik    
+**Infra** · Linux (Arch, daily driver)  
 **Dev** · Flask · MySQL · REST API  
 
 ---
@@ -17,7 +17,7 @@
 
 -  [**gymtrack**](https://github.com/Khalil-bec/gymtrack) — app de suivi fitness avec une stack DevOps complète (Flask · MySQL · Docker Compose · Nginx · CI/CD)
 -  [**ksh**](https://github.com/Khalil-bec/ksh) — shell custom en Python, pour comprendre ce qui se passe sous le capot
--  [**Homelab**](https://github.com/Khalil-bec/Homelab) - 
+-  [**Homelab**](https://github.com/Khalil-bec/Homelab) - Infrastructure auto-hébergée sur une seule machine, provisionnée de manière déclarative.
 
 ---
 
