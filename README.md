@@ -1,6 +1,6 @@
 # Hey, moi c'est Khalil 👋
 
-Étudiant en informatique (L3) à l'UPPA, je m'oriente vers le **DevOps & l'infrastructure** — automatisation, conteneurisation, CI/CD, le genre de trucs qui font que le code arrive en prod sans douleur.
+Étudiant en informatique (L3) à l'UPPA, je m'oriente vers le **DevOps & l'infrastructure** : automatisation, conteneurisation, CI/CD, le genre de trucs qui font que le code arrive en prod sans douleur.
 
 ---
 
