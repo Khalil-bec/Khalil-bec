@@ -6,10 +6,13 @@
 
 ## Stack & compétences
 
-**Langages** · Python · C · C++ · SQL · Bash  
-**DevOps** · Docker · GitHub Actions · Nginx · Ansible · Prometheus · Grafana · Traefik    
-**Infra** · Linux (Arch, daily driver)  
-**Dev** · Flask · MySQL · REST API  
+**Langages** : Python, Bash, SQL, JavaScript, C, C++
+**DevOps / Infra** : Docker, Docker Compose, Ansible, GitHub Actions (CI/CD), Trivy, Traefik, Nginx
+**Réseau** : configuration réseau (adressage IP et CIDR, routage, réseaux Docker)
+**Supervision** : Prometheus, Grafana, Node Exporter, Uptime Kuma
+**Bases** de données : MySQL
+**Outils** : Git, Linux (Arch), pytest, Make
+**En cours d'apprentissage** : Kubernetes, Terraform, AWS
 
 ---
 
